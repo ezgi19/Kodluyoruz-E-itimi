@@ -1,0 +1,38 @@
+h1 {
+    color: #e91640;
+    font-size: 50px;
+   }
+
+   a:link {
+     margin-left: 8px;
+     font-size: 30px;
+    
+  }
+
+  a:hover {
+      color: #00004d;
+  }
+
+  h2{
+      color: #CC00CC;
+      font-size: 40px;
+  }
+
+  ol {
+    text-align: center;
+    display:inline-block;
+    
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+ol{
+    font-size: 25px;
+}
+
+li{
+    margin-top: 40px;
+}
